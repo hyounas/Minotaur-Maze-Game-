@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\visual studio files\maze game updated\maze game updated\source.cpp(80): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Maze Game Updated.vcxproj -> D:\Visual studio files\Maze Game Updated\Debug\Maze Game Updated.exe
